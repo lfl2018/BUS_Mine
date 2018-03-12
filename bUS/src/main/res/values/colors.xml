@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black3">#ff999999</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blues">#4BB3F9</color>
+    <color name="white">#ffffffff</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="blue">#0000FF</color>
+    <color name="black">#000000</color>
+    <color name="black1">#90333333</color>
+    <color name="blue_base">#5583e4</color>
+    <color name="blue_little">#9999FF</color>
+    <!-- 新 -->
+    <color name="blue_back">#21b3ff</color>
+    <color name="blue_hight_light">#0aa8fb</color>
+    <color name="gray_base">#8d8d8d</color>
+    <color name="gray_base_h">#c7c7c7</color>
+    <color name="gray_base_deep">#4d4d4d</color>
+
+    <drawable name="Toolbar">#5599FF</drawable>
+
+    <color name="gray_bfbfbf">#bfbfbf</color>
+    <color name="grenn">#00cc00</color>
+    <color name="backblue">#2F74DB</color>
+    <color name="dialog_background">#f6f6f6</color>
+    <color name="dialog_activity_background">#30333333</color>
+    <color name="blue_base_theme">#21b3ff</color>
+    <color name="black_262626">#262626</color>
+    <color name="gray_8d8d8d">#8d8d8d</color>
+    <color name="gray_d8d8d8">#d8d8d8</color>
+    <color name="red_fd1c1c">#fd1c1c</color>
+    <color name="gray_4d4d4d">#4d4d4d</color>
+    <color name="gray_f2f2f2">#f2f2f2</color>
+    <color name="red_ff8e8e">#ff8e8e</color>
+
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/topbar"
+        layout="@layout/top_bar" />
+<EditText
+        android:id="@+id/et_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="start"
+        android:hint="输入标题"
+        android:lines="1"
+        android:maxLines="2"
+        android:textColor="#000"
+        android:textColorHint="@color/gray_bfbfbf"
+        android:textSize="15sp" />
+    <EditText
+        android:layout_marginTop="5dp"
+        android:id="@+id/et_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="start"
+        android:hint="话题内容"
+        android:lines="5"
+        android:maxLines="10"
+        android:textColor="#000"
+        android:textColorHint="@color/gray_bfbfbf"
+        android:textSize="15sp" />
+
+    <ImageView
+        android:id="@+id/iv_img"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@drawable/ic_launcher"
+        android:visibility="gone" />
+
+    <GridView
+        android:id="@+id/grid_img"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:numColumns="3" >
+    </GridView>
+
+    <LinearLayout
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:orientation="horizontal"
+        android:padding="10dp" >
+
+        <ImageView
+            android:id="@+id/iv_add"
+            android:layout_width="17dp"
+            android:layout_height="19dp"
+            android:src="@drawable/ic_launcher" />
+    </LinearLayout>
+
+</LinearLayout>

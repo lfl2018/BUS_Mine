@@ -1,0 +1,942 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_show_file.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_mission.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_mission.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_m_binding_phone.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_m_binding_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_voice.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_video_call.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_conversation_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_comment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_judian.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_my_judian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e128a7fed316e7ac65302c659581910da628c85\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video_call.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e128a7fed316e7ac65302c659581910da628c85\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_guide.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_navigate.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_wifi_navigate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basicmap.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_basicmap.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ihealth_register.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_ihealth_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_voice.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_lable.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_lable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_txtnews.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_txtnews.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shop_pub.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_shop_pub.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_topic.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_topic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_voice_recorder.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\tab_bus_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\tab_bus_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\checkupversion_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\checkupversion_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_pass.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_forget_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mynews.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_mynews.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_pub.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_my_pub.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qr_scan.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_qr_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_contact_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_row_contact.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_row_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_m_regist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_m_regist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_other_judian.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_other_judian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e128a7fed316e7ac65302c659581910da628c85\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_conect_wifi.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_conect_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bus_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_bus_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_wifi.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_line_cover.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_line_cover.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me_me.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_me_me.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nearby_wifi.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_nearby_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chengjiu_got.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_chengjiu_got.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_list_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\layout\\cube_mints_base_list_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_html_news_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_html_news_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_judian.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_my_judian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_me.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_me.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_scroll_tab_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qq_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_qq_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_search_bar_with_padding.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_service_agreement.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_service_agreement.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\top_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\top_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_send_comment_single.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\dialog_send_comment_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mission.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_mission.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_block_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\layout\\cube_mints_base_block_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_contact_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news_details.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_news_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nearby_all_wifi.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_nearby_all_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e128a7fed316e7ac65302c659581910da628c85\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_config_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\wifi_config_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share_to_wx.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_share_to_wx.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_expression.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_voice_call.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e128a7fed316e7ac65302c659581910da628c85\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_other_judian.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_other_judian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e128a7fed316e7ac65302c659581910da628c85\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\cube_views_load_more_default_footer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\layout\\cube_views_load_more_default_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_show_big_image.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_yixiazai.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_yixiazai.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_news.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hello.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_hello.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_index.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_index.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_bigexpression.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_m_forget_pass.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_m_forget_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_title_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_chat_history.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_lable.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_my_lable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_server.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_server.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_search_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\top_actionbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\top_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e128a7fed316e7ac65302c659581910da628c85\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_alert_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_identity_authebtucation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_identity_authebtucation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_back.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yingyong.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_yingyong.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_judian_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_judian_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_emojicon.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_detail_info.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_user_detail_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_topic_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_topic_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busdetail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_busdetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_txtnews.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_txtnews.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_fragment_block_menu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\layout\\cube_mints_base_fragment_block_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_update_notify.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\layout\\cube_mints_update_notify.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bus_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_bus_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_chat_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_html_topic_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_html_topic_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_send_comment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\dialog_send_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_binding_phone.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_binding_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chengjiu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_chengjiu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\notify_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\notify_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_con.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_con.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_contact.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\discover_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\discover_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_user_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_wifi_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_commom_back_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_bus.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_bus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_bus_recently.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_bus_recently.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news_center.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_news_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\top_bar_nearby_wifi.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\top_bar_nearby_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_video.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_info.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_my_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_nearby_bus.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_nearby_bus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_showvideo_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_header_bar_title.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\layout\\cube_mints_base_header_bar_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_gaodemap.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_gaodemap.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend_detail_info.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_friend_detail_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chengchejl.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_chengchejl.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e128a7fed316e7ac65302c659581910da628c85\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pub_topic.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_pub_topic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_head_portrait.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_head_portrait.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e128a7fed316e7ac65302c659581910da628c85\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_m_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_m_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_file.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_entity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_entity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_location.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_share.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\dialog_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_all.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_search_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shop_pub.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_shop_pub.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_xiazaizhong.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_xiazaizhong.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mydownload.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_mydownload.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qr_attention.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_qr_attention.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_voice_call.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\tab_apollo_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\tab_apollo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mregist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_mregist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_label_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_my_label_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_change_group_fragment_img.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\dialog_change_group_fragment_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_file.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_all.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_chat_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_select_label.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_select_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\cube_material_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\layout\\cube_material_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_judian.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_judian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_chat.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\ptrlib\\build\\intermediates\\bundles\\default\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chengjiu_get.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_chengjiu_get.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e128a7fed316e7ac65302c659581910da628c85\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_videoitem.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_videoitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_chat_message_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bus_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_bus_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_picnews.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_picnews.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_need_crack_wifi.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_need_crack_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_choose_lable.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\dialog_choose_lable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_youxi.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_youxi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_msg_check.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_msg_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quick_register.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_quick_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msg_check.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_msg_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_contact_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_picture.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_label.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_my_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_picnews.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_picnews.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_vedionews.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_vedionews.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_emojicon.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_wifi.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\dialog_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_conversation_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_free_wifi.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_free_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\top_tab_apollo_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\top_tab_apollo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\head_topic_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\head_topic_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_video.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_content_frame_with_title_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\layout\\cube_mints_base_content_frame_with_title_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_identity_portrait.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\activity_identity_portrait.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\ptrlib\\build\\intermediates\\bundles\\default\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\item_nearby_wifi.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\item_nearby_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e128a7fed316e7ac65302c659581910da628c85\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_big_expression.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shop.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\layout\\fragment_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_conversation_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e128a7fed316e7ac65302c659581910da628c85\\output\\res\\layout\\design_navigation_menu_item.xml"
+    }
+]

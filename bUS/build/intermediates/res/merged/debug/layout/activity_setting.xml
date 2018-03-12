@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_bar" />
+
+    <TextView
+        android:id="@+id/tv_my_info"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:drawableRight="@drawable/icon_direction_key"
+        android:background="@drawable/item_selector"
+        android:drawablePadding="10dp"
+        android:gravity="center_vertical"
+        android:text="个人资料"
+        android:textSize="18sp"
+        android:textColor="#262626" />
+    <View 
+        android:layout_height="0.1dp"
+        android:layout_width="match_parent"
+        android:background="#8d8d8d"/>
+    <TextView
+        android:id="@+id/tv_change_pass"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:drawableRight="@drawable/icon_direction_key"
+        android:background="@drawable/item_selector"
+        android:drawablePadding="10dp"
+        android:gravity="center_vertical"
+        android:text="修改密码"
+        android:textSize="18sp"
+        android:textColor="#262626" />
+
+    <TextView
+        android:id="@+id/tv_newversion"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/item_selector"
+        android:drawablePadding="10dp"
+        android:drawableRight="@drawable/icon_direction_key"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="新版检测"
+        android:textSize="18sp"
+        android:textColor="#262626" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="#8d8d8d" />
+
+    <TextView
+        android:id="@+id/tv_clean"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/item_selector"
+        android:drawablePadding="10dp"
+        android:drawableRight="@drawable/icon_direction_key"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textColor="#262626"
+        android:text="清理缓存"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/item_selector"
+        android:drawablePadding="10dp"
+        android:drawableRight="@drawable/ic_right"
+        android:gravity="center_vertical"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:text="用户指南"
+        android:textColor="#000"
+        android:visibility="gone" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="#8d8d8d"
+        />
+
+    <TextView
+        android:id="@+id/tv_about_me"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/item_selector"
+        android:drawablePadding="10dp"
+        android:drawableRight="@drawable/icon_direction_key"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="关于我们"
+        android:textColor="#262626" 
+        android:textSize="18sp"/>
+
+    <TextView
+        android:background="@drawable/btn_selector_red"
+        android:id="@+id/tv_logout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="78dp"
+        android:gravity="center"
+        android:text="退出登陆"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:textSize="18sp"
+        android:textColor="#fff" />
+
+</LinearLayout>

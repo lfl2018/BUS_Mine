@@ -1,0 +1,498 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\edt_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\edt_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_index_side.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\selector_index_side.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_mc_selector2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\ic_menu_mc_selector2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e128a7fed316e7ac65302c659581910da628c85\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_topic_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\ic_menu_topic_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_mc_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\ic_menu_mc_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\d_btn_unpress_gray.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\d_btn_unpress_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e128a7fed316e7ac65302c659581910da628c85\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_cir.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\shape_cir.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_common_tab_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_common_tab_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_lable.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\shape_lable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_contact_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\ic_menu_contact_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_submit_press.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\shape_submit_press.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_mc_selector1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\ic_menu_mc_selector1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\submit_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\submit_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\d_btn_press_gray.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\d_btn_press_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\misson_on_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\misson_on_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_bottom_tab.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\bg_bottom_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_bj.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_btn_cancel_bj.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_timestampe_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_timestampe_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_sidebar_background_pressed.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_map_poi.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\btn_map_poi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\d_btn_unpress.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\d_btn_unpress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\cube_material_card.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\drawable\\cube_material_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_org.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\shape_org.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\layout_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\d_btn_press.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\d_btn_press.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_regist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\selector_regist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_index_side_on.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\shape_index_side_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_me_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\ic_menu_me_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\edt_shap.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\edt_shap.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\mission_color_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\mission_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_hint_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_recording_hint_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_btn_blue_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\edt_bg_gray.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\edt_bg_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_et_feed_back.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\shape_et_feed_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_press_speak_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_chat_press_speak_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_mm_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_pressed_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_btn_cancel_pressed_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\misson_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\misson_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\cube_material_card_nos_pressed.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\drawable\\cube_material_card_nos_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_pressed_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gray.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\shape_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_mission_get.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\shape_mission_get.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\edt_shap_mission.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\edt_shap_mission.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\btn_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_image_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_chat_image_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\cube_material_card_nos.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\drawable\\cube_material_card_nos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_pic.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\ic_add_pic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\animation3.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\animation3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_normal_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_btn_cancel_normal_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_edit_text_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_edit_text_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_location_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_chat_location_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_index_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\ic_menu_index_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\selector_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\top_bottom_tab.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\top_bottom_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_guid_point_puple.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\bg_guid_point_puple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_type_select_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_type_select_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_keyboard_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_conversation_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\ic_menu_conversation_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_guid_point_black.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\bg_guid_point_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_normal_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\item_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\edt_shap_wg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\edt_shap_wg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_topic_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\shape_topic_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\shape_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector_red.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\btn_selector_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_stoke.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\btn_blue_stoke.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_guid_point_white.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\bg_guid_point_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_msg_state_failed_resend.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_msg_state_failed_resend.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_start.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\selector_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatto_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_chatto_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_update_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\dialog_update_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\d_btn_press_red.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\d_btn_press_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_say_hello.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\bg_say_hello.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\cube_material_dialog_window.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\drawable\\cube_material_dialog_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\d_btn_unpress_red.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\d_btn_unpress_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatfrom_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_chatfrom_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\cube_dialog_button.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\drawable\\cube_dialog_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_change_head.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\bg_button_change_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_submit_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\shape_submit_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_text_hint_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_recording_text_hint_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_search_clear.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_search_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector_gray.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\btn_selector_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\cube_mints_update_progressbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\drawable\\cube_mints_update_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem_grey.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_mm_listitem_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\selector_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_news_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\ic_menu_news_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\bar_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_blue.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\shape_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_index_side_off.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\shape_index_side_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_send_btn_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_chat_send_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_fillet.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable\\btn_fillet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_takepic_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable\\ease_chat_takepic_selector.xml"
+    }
+]

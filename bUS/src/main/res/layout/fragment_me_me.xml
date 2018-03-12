@@ -1,0 +1,302 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f2f2f2" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:background="@color/blue_base_theme" >
+
+            <ImageView
+                android:id="@+id/img_set"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:padding="5dp"
+                android:src="@drawable/icon_my_set_n" />
+
+            <TextView
+                android:id="@+id/tv_sign"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp"
+                android:drawableLeft="@drawable/icon_my_sign_in_n"
+                android:padding="5dp" />
+
+            <ImageView
+                android:visibility="gone"
+                android:id="@+id/iv_qr_code"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/tv_sign"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp"
+                android:padding="5dp"
+                android:src="@drawable/icon_qr_code" />
+
+            <ImageView
+                android:id="@+id/img_share"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignParentRight="true"
+                android:layout_margin="10dp"
+                android:src="@drawable/ic_share"
+                android:visibility="gone" />
+
+            <LinearLayout
+                
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="25dp"
+                    android:background="@drawable/icon_my_head_portrait_line"
+                    android:padding="1dp" >
+
+                    <ImageView
+                        android:id="@+id/head"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/icon_my_head_portrait_female" />
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/tv_user_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="未登录"
+                    android:textColor="#fff"
+                    android:textSize="15sp" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="center_vertical"
+                android:id="@+id/ll_linec"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#fff"
+                android:clickable="true"
+                android:gravity="center"
+                android:orientation="vertical"
+                >
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|center_vertical"
+                    android:drawableLeft="@drawable/icon_my_integral"
+                    android:drawablePadding="10dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/str_jifen"
+                    android:textColor="#262626"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_yy"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:background="#fff"
+                android:clickable="true"
+                android:gravity="right|center_vertical"
+                android:orientation="vertical"
+                android:padding="5dp" >
+
+                <TextView
+                    android:id="@+id/tv_jifen"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="30dp"
+                    android:text="0"
+                    android:textColor="#ff2140"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="#f2f2f2" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tv_judian"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="@drawable/item_selector"
+                    android:drawableLeft="@drawable/icon_my_wifi"
+                    android:drawablePadding="20dp"
+                    android:drawableRight="@drawable/icon_direction_key"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="我的据点"
+                    android:textColor="#262626"
+                    android:textSize="15sp" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.1dp"
+                    android:background="#99dddddd" />
+
+                <TextView
+                    android:id="@+id/tv_friend"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="@drawable/item_selector"
+                    android:drawableLeft="@drawable/ic_friends"
+                    android:drawablePadding="20dp"
+                    android:drawableRight="@drawable/ic_right"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="我的好友"
+                    android:visibility="gone"
+                    android:textSize="15sp" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.1dp"
+                    android:background="#99dddddd" />
+
+                <TextView
+                    android:id="@+id/tv_mission"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="@drawable/item_selector"
+                    android:drawableLeft="@drawable/icon_my_task"
+                    android:drawablePadding="20dp"
+                    android:drawableRight="@drawable/icon_direction_key"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="任务中心"
+                    android:textColor="#262626"
+                    android:textSize="15sp" />
+                  <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.1dp"
+                    android:background="#99dddddd" />
+
+                <TextView
+                    android:id="@+id/tv_chengjiu"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="@drawable/item_selector"
+                    android:drawableLeft="@drawable/icon_my_achievement"
+                    android:drawablePadding="20dp"
+                    android:drawableRight="@drawable/icon_direction_key"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="成就任务"
+                    android:textColor="#262626"
+                    android:textSize="15sp" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:background="#f2f2f2" />
+
+                <TextView
+                    android:id="@+id/tv_identity"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="@drawable/item_selector"
+                    android:drawableLeft="@drawable/icon_my_authentication"
+                    android:drawablePadding="20dp"
+                    android:drawableRight="@drawable/icon_direction_key"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="身份认证"
+                    android:textColor="#262626"
+                    android:textSize="15sp" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.1dp"
+                    android:background="#99dddddd" />
+
+                <TextView
+                    android:id="@+id/tv_mobile"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="@drawable/item_selector"
+                    android:drawableLeft="@drawable/icon_my_binding_phone"
+                    android:drawablePadding="20dp"
+                    android:drawableRight="@drawable/icon_direction_key"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="手机绑定"
+                    android:textColor="#262626"
+                    android:textSize="15sp" />
+
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:background="#f2f2f2" />
+
+                <TextView
+                    android:id="@+id/tv_feedback"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="@drawable/item_selector"
+                    android:drawableLeft="@drawable/icon_message"
+                    android:drawablePadding="20dp"
+                    android:drawableRight="@drawable/icon_direction_key"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="我要反馈"
+                    android:textColor="#262626"
+                    android:textSize="15sp" />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.1dp"
+                    android:background="#99dddddd" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

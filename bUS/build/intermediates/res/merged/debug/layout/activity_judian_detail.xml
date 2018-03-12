@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/topbar"
+        layout="@layout/top_bar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="wifi"
+            android:textColor="@color/black_262626"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/img_jd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/icon_my_level_first" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:text="当前等级为 ：1"
+        android:textColor="@color/black_262626"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv_lv_dis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:gravity="center"
+        android:text="最多可获取50点积分\t升级需要25积分"
+        android:textColor="@color/gray_8d8d8d"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv_update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="65dp"
+        android:background="@drawable/submit_selector"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="据点升级"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+</LinearLayout>

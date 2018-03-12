@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/apollo"
+    android:layout_width="0.0dip"
+    android:layout_height="match_parent"
+    android:layout_weight="1.0"
+    android:background="@drawable/bg_bottom_tab" >
+
+    <TextView
+        android:id="@+id/apollo_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:paddingBottom="5dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:background="@drawable/selector_index_side"
+        android:gravity="center"
+        android:textColor="@color/bottom_tab_text_color_selector"
+        android:textSize="16sp" />
+
+</FrameLayout>

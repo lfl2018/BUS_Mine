@@ -1,0 +1,790 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ewifi4.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ewifi4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_yxi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_yxi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_tab_conversation.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\main_tab_conversation.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wifi_list_map.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\wifi_list_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_tab_shoper_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_tab_shoper_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_tab_my_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_tab_my_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_tab_word_d.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\main_tab_word_d.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_integral.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_integral.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_head_portrait_female.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_head_portrait_female.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wifi_list.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\wifi_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\yingyong.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\yingyong.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_fankui.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_fankui.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wf3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\wf3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wifi_second_lock.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wifi_second_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wifi_3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\wifi_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ewifilock0.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ewifilock0.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_no.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_no.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_task.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_task.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wifi_third_unlock.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wifi_third_unlock.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_lv_2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_lv_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_amain_1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_amain_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_tab_bus_d.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\main_tab_bus_d.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wifi_third_lock.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wifi_third_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wifi_strong_lock.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wifi_strong_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_wifi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\close.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_level_second.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_level_second.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_level_third.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_level_third.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_jilu.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_jilu.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wf1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\wf1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ewifi2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ewifi2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_clothing.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_clothing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_qr_code.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_qr_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_return.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_return.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_start_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\btn_start_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_radio_h.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_radio_h.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ewifilock4.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ewifilock4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_sign_in_h.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_sign_in_h.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_back.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_nothing.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_nothing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_tab_bus.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\main_tab_bus.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\shezhi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\shezhi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_set_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_set_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_tab_shoper_h.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_tab_shoper_h.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_guide_page2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\bg_guide_page2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wifi_second_unlock.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wifi_second_unlock.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wifi_surround_wifi_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wifi_surround_wifi_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ewifi_small03.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ewifi_small03.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_bus_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_bus_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cube_mints_icon_top_back.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\core\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\cube_mints_icon_top_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_food.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_food.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_tab_me.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\main_tab_me.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_level_first.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_level_first.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pic_guide_page1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\pic_guide_page1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_right.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_tab_word.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\main_tab_word.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_add_label.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_add_label.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_tab_message_h.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_tab_message_h.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_binding_phone.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_binding_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_traffic.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_traffic.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\youxi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\youxi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_tab_message_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_tab_message_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_add_pic_h.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_add_pic_h.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pre.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_pre.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_add_pic_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_add_pic_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_head_portrait_line.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_head_portrait_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_entertainment.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_entertainment.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fugailuxian.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\fugailuxian.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\intoicon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\intoicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_guide_page2_phone.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\bg_guide_page2_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_tab_friends_h.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_tab_friends_h.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ewifi0.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ewifi0.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_lv_3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_lv_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_tab_friends_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_tab_friends_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_guide_page3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\bg_guide_page3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pic_my.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\pic_my.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wifi_surround_wifi_h.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wifi_surround_wifi_h.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_qq.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_qq.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_set_h.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_set_h.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_message.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_message.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\page_startup.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\page_startup.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wifi_4.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\wifi_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wifi_no_connected.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wifi_no_connected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\recently_bus.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\recently_bus.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_fenxiang.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_fenxiang.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_friends.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_friends.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wifi_nosignal_unlock.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wifi_nosignal_unlock.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wifi_strong_unlock.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wifi_strong_unlock.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_down.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ewifi1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ewifi1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_bus.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_bus.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_wifi_big.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_wifi_big.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_tab_conversation_d.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\main_tab_conversation_d.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_gks.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_gks.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_head_portrait_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_head_portrait_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_tab_wifi_d.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\main_tab_wifi_d.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_message.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_message.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_lv_1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_lv_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_tab_wifi_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_tab_wifi_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_password.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_radio_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_radio_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_start_h.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\btn_start_h.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_amain_2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_amain_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wifi_2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\wifi_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_sign_in_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_sign_in_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wflist.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\wflist.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ewifilock1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ewifilock1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_choose.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_choose.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_head.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_head.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_guide_page3_word.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\bg_guide_page3_word.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_tab_wifi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\main_tab_wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wifi_weak_unlock.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wifi_weak_unlock.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_tab_my_h.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_tab_my_h.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pic_guide_page2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\pic_guide_page2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_guide_page2_word.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\bg_guide_page2_word.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_search.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_wxc.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_wxc.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ewifi_small01.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ewifi_small01.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_guide_page1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\bg_guide_page1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_hotel.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\splash.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\exchange.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\exchange.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ewifi_small02.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ewifi_small02.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pic_guide_page3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\pic_guide_page3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_tab_wifi_h.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_tab_wifi_h.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ewifilock3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ewifilock3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_authentication.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_authentication.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wifi_0.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\wifi_0.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_number.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_number.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pic_guide_page4.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\pic_guide_page4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pyq.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_pyq.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_guide_page3_phone.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\bg_guide_page3_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wifi_nosignal_lock.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wifi_nosignal_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wechat.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wechat.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_xxx.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_xxx.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_tab_me_d.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\main_tab_me_d.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_guide_page1_word.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\bg_guide_page1_word.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_qq.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_qq.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wf2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\wf2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_yy.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ic_yy.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\head_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\head_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ewifilock2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ewifilock2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wifi_1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\wifi_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_guide_page1_phone.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\bg_guide_page1_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_achievement.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_achievement.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wifi_connected.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wifi_connected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_my_head_portrait_male.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_my_head_portrait_male.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ewifi3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\ewifi3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_wifi_weak_lock.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\src\\main\\res\\drawable-xxhdpi\\icon_wifi_weak_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e74143d53dbe2982a6cea2c8f2f2c5ff66da3c3b\\output\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    }
+]

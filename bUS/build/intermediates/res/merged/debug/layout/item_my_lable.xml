@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center" >
+
+    <RelativeLayout
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="20dp" >
+
+        <TextView
+            android:id="@+id/tv_lable"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_lable"
+            android:gravity="center"
+            android:text="大力出奇迹"
+            android:textColor="@color/gray_4d4d4d"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

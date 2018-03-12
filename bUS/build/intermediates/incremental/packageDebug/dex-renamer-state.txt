@@ -1,0 +1,7 @@
+#Mon Nov 27 15:43:28 CST 2017
+base.0=C\:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a838136b62bd85e236e7d8491cf81a60722702dc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a0ceaf97759320e50da7ca2f04cfa6b801e1707f\\classes.dex
+base.1=C\:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a0ceaf97759320e50da7ca2f04cfa6b801e1707f
+file.0=C\:\\Users\\Administrator\\Desktop\\BUS_STUDIO\\BUS_STUDIO\\bUS\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a838136b62bd85e236e7d8491cf81a60722702dc\\classes.dex

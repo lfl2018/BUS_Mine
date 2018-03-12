@@ -1,0 +1,63 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="BottomTab" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_size_h10</item>
+        <item name="android:textColor">@color/bottom_tab_text_color_selector</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_bottom_tab</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingBottom">2.0dip</item>
+        <item name="android:drawablePadding">0.0dip</item>
+    </style>
+
+    <style name="TopTab" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_size_h15</item>
+        <item name="android:textColor">@color/top_tab_text_color_selector</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/mission_color_selector</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingBottom">2.0dip</item>
+        <item name="android:drawablePadding">0.0dip</item>
+    </style>
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar"></style>
+
+    <style name="AppTheme" parent="AppBaseTheme"></style>
+
+    <!-- Base application theme. -->
+    <style name="loginTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Dialog_Fullscreen">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowBackground">@color/black1</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="DialogActivity">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/black1</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="DialogTransparent" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+</resources>

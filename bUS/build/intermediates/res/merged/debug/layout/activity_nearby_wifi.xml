@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/topbar"
+        layout="@layout/top_bar" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="#d8d8d8" />
+
+    <TextView
+        android:id="@+id/tv_nearby_all_wifi"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:drawableLeft="@drawable/icon_wifi_surround_wifi"
+        android:drawablePadding="10dp"
+        android:drawableRight="@drawable/icon_direction_key"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="在地图上查看周边所有的WiFi热点"
+        android:textColor="#262626"
+        android:textSize="16sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="#d8d8d8" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#f2f2f2" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="#d8d8d8" />
+
+    <ListView
+        android:id="@+id/lv_nearby_wifi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="#d8d8d8"
+        android:dividerHeight="0.1dp" />
+
+</LinearLayout>

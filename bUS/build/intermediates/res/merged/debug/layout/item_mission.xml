@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@color/white"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="大力哥来到药店买小泰"
+            android:textColor="@color/gray_8d8d8d"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_fenshu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:layout_toRightOf="@+id/tv_name"
+            android:textColor="@color/red_fd1c1c"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_un_finish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:padding="5dp"
+            android:text="未完成"
+            android:textColor="@color/gray_8d8d8d"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_get_jf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/shape_mission_get"
+            android:text="领取"
+            android:textColor="@color/blue_base_theme"
+            android:textSize="15sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tv_finish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:padding="5dp"
+            android:text="已完成"
+            android:textColor="@color/black_262626"
+            android:textSize="15sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</LinearLayout>
