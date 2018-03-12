@@ -1,3 +1,3 @@
 # BUS_Mine
 MyBus
-just a uplode test
+just a upload test
